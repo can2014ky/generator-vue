@@ -1,5 +1,5 @@
 {
-  "name": "generator--zc-vue",
+  "name": "generator-zc-vue",
   "version": "1.0.0",
   "description": "create a vue-cli by myselft, using in specific project.",
   "main": "generators/app/index.js",
